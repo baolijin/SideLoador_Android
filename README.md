@@ -12,8 +12,8 @@
 ## 演示
 
 <!-- GitHub README 会裁剪仓库内相对路径的 <video>；这里用绝对 CDN 地址，便于在线播放 -->
-<video width="640" height="360" controls>
-  <source src="https://github.com/baolijin/SideLoador_Android/raw/main/arts/demo.mp4" type="video/mp4">
+<video  controls>
+  <source src="arts/demo.mp4" type="video/mp4">
   您的浏览器不支持 HTML5 video 标签。
 </video>
 
