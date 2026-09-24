@@ -11,11 +11,19 @@
 
 ## 演示
 
-<video src="arts/demo.mp4" controls width="720" preload="metadata" playsinline>
-  你的浏览器不支持视频播放，请打开 <a href="arts/demo.mp4">arts/demo.mp4</a>。
+<!-- GitHub README 会裁剪仓库内相对路径的 <video>；这里用绝对 CDN 地址，便于在线播放 -->
+<video src="https://cdn.jsdelivr.net/gh/baolijin/SideLoador_Android@main/arts/demo.mp4"
+       controls
+       width="720"
+       preload="metadata"
+       playsinline>
+  你的浏览器不支持视频播放，请打开
+  <a href="https://raw.githubusercontent.com/baolijin/SideLoador_Android/main/arts/demo.mp4">demo.mp4</a>。
 </video>
 
-<p align="center"><a href="arts/demo.mp4">⬇ 下载演示视频（demo.mp4，约 2.5MB）</a></p>
+<p align="center">
+  <a href="https://github.com/baolijin/SideLoador_Android/raw/main/arts/demo.mp4">⬇ 下载 / 播放演示视频（约 2.5MB）</a>
+</p>
 
 ---
 
