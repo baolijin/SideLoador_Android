@@ -1,0 +1,49 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+
+# Mobile
+mobile_app/.gradle/
+mobile_app/build/
+mobile_app/app/build/
+mobile_app/local.properties
+mobile_app/manual_build/
+
+# OS
+.DS_Store
+
+# Secrets
+*.jks
+*.pepk
+key.properties
+
+# Large screen recordings — only compressed demo.mp4 is committed
+arts/screen*.mp4
+arts/*record*.mp4
+*.mov
+
+# Flutter ephemeral
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Large screen recordings (keep only compressed demo.mp4)
+arts/screen*.mp4
+arts/*record*.mp4
+
+# Flutter ephemeral
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Manual packaging scratch
+mobile_app/manual_build/
+
+# Editor
+.vscode/

@@ -1,0 +1,4 @@
+// Root build file — plugin versions applied in settings via plugins block if needed.
+plugins {
+    id 'com.android.application' version '8.7.3' apply false
+}
